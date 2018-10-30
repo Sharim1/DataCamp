@@ -1,2 +1,2 @@
 # DataCamp
-Datacamp Projects
+My Solutions to Datacamp Projects
